@@ -31,5 +31,6 @@ API sheet will be given after the completion of UI.
 Work on separate branches for major features. This is crucial for code review.
 
 ## Timeline and reporting
+
 - You have a week(5 working days) for completing this task.  
-- There will be daily progress reporting. You will be required to report your days progress.  
+- There will be daily progress reporting. You will be required to report your days progress via readme of the repository.  
